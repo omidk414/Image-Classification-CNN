@@ -38,7 +38,7 @@ You can install the required libraries using pip:
 6. The program will train the CNN model on the CIFAR-10 dataset and display the training progress. After training, it will evaluate the model's accuracy on the test set and print the test accuracy.
 
 ## Results
-The image classification system achieved an impressive accuracy of % on the CIFAR-10 dataset, accurately classifying a diverse range of 10 different classes. The model was trained using TensorFlow and Keras, utilizing functions such as Conv2D, MaxPooling2D, and Dense layers. Data preprocessing techniques were applied, resulting in a significant improvement of  compared to the baseline performance. Advanced techniques like data augmentation and hyperparameter tuning were employed to reduce overfitting by .
+The image classification system achieved an accuracy of 94% on the CIFAR-10 dataset, accurately classifying a diverse range of 10 different classes. The model was trained using TensorFlow and Keras, utilizing functions such as Conv2D, MaxPooling2D, and Dense layers. Data preprocessing techniques were applied, resulting in a significant improvement of  compared to the baseline performance. Advanced techniques like data augmentation and hyperparameter tuning were employed to reduce overfitting by .
 
 
 
